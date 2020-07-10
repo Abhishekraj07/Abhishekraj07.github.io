@@ -1,0 +1,56 @@
+.backgroung{background-image:url(https://i.pinimg.com/originals/e2/71/fd/e271fda72f1e158b5f0569cc72d36d7f.jpg);background-repeat:no-repeat;background-attachment:fixed;background-size:100% 100%}
+.color{
+    color: blue;
+}
+
+.high
+{
+    height: 150px;
+    width: 250px;
+    align-content: flex-end;
+}
+.high1
+{
+    height: auto;
+    width: auto;
+    opacity: 0;
+}
+.jumbotron {
+    background: none
+}
+.h{
+    font-size: 80px;
+}
+.high2{
+    height: 550px;
+    width: 450px;
+}
+.hi{
+    font-size: 40px;
+}
+.listss{
+    background: none;
+ 
+}
+.listss1{
+    height: 900px;;
+ 
+}
+@media (max-width:629px) {
+    img#optionalstuff {
+      display: none;
+    }
+  }
+  .cardcss{
+      text-align: center;
+      height: 50%;
+      width: 50%;
+  }
+  .cardcss1{
+    text-align: center;
+    height: 30%;
+    width: 100%;
+}
+.color{
+    color: blue;
+}
